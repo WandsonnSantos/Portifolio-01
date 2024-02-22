@@ -164,6 +164,10 @@ footer {
     height: 50px;
   }
 
+  .img-principal {
+    width: 60%;
+  }
+
   footer {
     padding: 8px;
     font-size: 1rem;
